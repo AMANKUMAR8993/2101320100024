@@ -6,4 +6,4 @@ export const isValidURL = (url) =>{
   catch(err){
     return false;
   }
-};
+}
